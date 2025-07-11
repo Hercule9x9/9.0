@@ -26,7 +26,7 @@ This repo only support PS4 for now.
 # How to run
 
 ## Website
-[Click Here](https://nazky.github.io/PSFree/)
+[Click Here](https://hercule9x9.github.io/9.0/)
 
 ## Locally
 
